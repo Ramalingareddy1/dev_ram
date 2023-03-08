@@ -26,3 +26,4 @@ class Animal {}
 class Cat extends Animal {}
 
 class Dog extends Animal {}
+class RedCat extends Cat {}
